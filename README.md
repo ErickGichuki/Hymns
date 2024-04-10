@@ -20,6 +20,6 @@ I have used three languages for this project:
 No bugs have been detected so far. if you happen to encouner kindly contact me via email:
 - Email: erickgichukimucheru@gmail.com
 ## License
-Copyright&copy; 2024 Erick Gichuki
+Copyright &copy; 2024 Erick Gichuki
 
 
