@@ -7,7 +7,7 @@
 - The user can add comments.
 ## Set up Instructions
 Fork ```https://github.com/ErickGichuki/Hymns/tree/main``` to get a copy remotely.
-Clone the work. Open the terminal navigate to the directory you want to store the work then run ```git clone``` followed by the SSH key.
+Clone the work. Open the terminal navigate to the directory you want to store the work then run ```git clone``` followed by the SSH key ```git@github.com:ErickGichuki/Hymns.git```.
 After that run ```code .``` to open the document in vs code.
 Run ```open index.html``` to open the document in the browser for mac users and ```explorere.exe``` for users using wsl and ubuntu.
 With this set up, follow along the code as you test it.
