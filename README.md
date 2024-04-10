@@ -13,13 +13,13 @@ Run ```open index.html``` to open the document in the browser for mac users and 
 With this set up, follow along the code as you test it.
 ## Techonlogies
 I have used three languages for this project:
-.HTML
-.CSS
-.JavaScript
+- HTML
+- CSS
+- JavaScript
 ## Bugs
-No bugs have been detected so far. if you happen to encouner kindly contact me via email
-Email: erickgichukimucheru@gmail.com
+No bugs have been detected so far. if you happen to encouner kindly contact me via email:
+- Email: erickgichukimucheru@gmail.com
 ## License
-Copyright(c) 2024 Erick Gichuki
+Copyright&copy 2024 Erick Gichuki
 
 
