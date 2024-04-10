@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hymns</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <div class="container">
+        <h2>Hymns</h2>
+        <h4 id="hymn-title"></h4>
+        <input type="search" id="searchInput" placeholder="Search">
+        <button id="searchBtn">Search</button>
+        <div id="navbar">
+            <nav>
+                <ul>
+                    <button id="previous">Previous</button>
+                    <button id="home">Home</button>
+                </ul>
+            </nav>
+        </div>
+        <div id="hymn-lyrics">Welcome to our hymns web! A home where hymns uplifts.</div>
+
+        <table id="hymnsTable">
+            <thead>
+                <tr>
+                    <th>No.</th>
+                    <th>Title</th>
+                    <th>Key</th>
+                    <th>Transpose</th>
+                </tr>
+            </thead>
+            <tbody id="hymns-list"></tbody>
+        </table>
+        <div id="comments-lyrics"><ul id="comments-list"></ul></div>
+        <form id="comment-form">
+            <input id="comment" placeholder="Add a comment">
+            <button id="comment-button" type="submit">Send</button>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica,Arial;
+    background-color: rgb(227, 245, 245);
+}
+.container{
+    width: 80%;
+    margin: 20px auto;
+    font-family: Poppins;
+}
+
+h2{
+    text-align: center;
+    color: #333;
+    font-size: 30px;
+}
+
+h4{
+    text-align: center;
+    color: #666;
+    font-size: 20px;
+}
+#image{
+    height: 
+    width
+}
+#searchInput{
+    width: 80%;
+    padding: 8px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 11px;
+}
+#searchBtn{
+    padding: 8px 20px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 7px;
+}
+th:hover{
+    background-color: #ddd;
+}
+#navbar {
+    text-align: center;
+    margin-bottom: 20px;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+#hymn-lyrics {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 13px;
+    background-color: rgb(197, 232, 197);
+    color: black;
+}
+#hymnsTable{
+    width: 100%;
+    border-collapse: collapse;
+}
+#hymnsTable th, #hymnsTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#hymnsTable tbody tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+#hymnsTable tbody tr:hover {
+    background-color: #ccc;
+}
+#hymnsTable td:last-child {
+    text-align: center;
+}
+#previous, #home{
+    margin-right: 30px;
+    padding: 8px 20px;
+    border-radius: 3px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+#previous:hover{
+    background-color: #0056b3;
+}
+#home:hover{
+    background-color: #0056b3;
+}
+#comments-lyrics{
+    border: 1px solid #333;
+    padding-top: 10px;
+    border-radius: 6px;
+}
+#comment{
+    margin-right: 10px;
+    width: 200px;
+    margin-top: 15px;
+    margin-left: 80px;
+    padding: 10px;
+}
+#comment-button{
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#comment-button:hover{
+    background-color: #0056b3;
+    color: white;
+}
