@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
         previousButton.removeEventListener('click', displayHymnTable);
     }
     homeButton.addEventListener('click', function() {
-        window.location.href = 'https://erickgichuki.github.io/Hymns/';
+        window.location.href = 'http://127.0.0.1:5501/';
     });
     function handleSearch() {
         const searchText = searchInput.value.toLowerCase().trim();
