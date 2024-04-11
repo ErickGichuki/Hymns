@@ -13,6 +13,10 @@
 - With this set up, follow along the code as you test it.
 - When you load in the browser the page should look this way 
 <img width="1376" alt="image" src="https://github.com/ErickGichuki/Hymns/assets/151629292/eea2075a-5b2d-4eaa-ba22-9f6de7e9bddd">
+- When the user clicks the title the lyrics are displayed.
+- The display should look like this
+  <img width="724" alt="image" src="https://github.com/ErickGichuki/Hymns/assets/151629292/1aa5cc90-e69c-489b-9fbe-4488f3c39db2">
+
 
 ## Techonlogies
 I have used three languages for this project:
