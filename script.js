@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const hymnLyrics = document.getElementById('hymn-lyrics');
     const hymnTitle = document.getElementById('hymn-title');
     const myHymns = new Request('https://jsons-7r1j.onrender.com/hymns');
-    const myComments = new Request('https://jsons-7r1j.onrender.com/hymns');
+    const myComments = new Request('https://jsons-7r1j.onrender.com/comments');
 
     let currentIndex = -1; // A variable that keeps track of the current hymn index
     let allHymns = []; //Set a variable to store all hymns adata
