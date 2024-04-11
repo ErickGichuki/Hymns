@@ -6,7 +6,7 @@
 - When the user clicks the selected hymn the lyrics display.
 - The user can add comments.
 ## Set up Instructions
-Fork ```https://github.com/ErickGichuki/Hymns/tree/main``` to get a copy remotely.
+Fork ```https://erickgichuki.github.io/Hymns/``` to get a copy remotely.
 Clone the work. Open the terminal navigate to the directory you want to store the work then run ```git clone``` followed by the SSH key ```git@github.com:ErickGichuki/Hymns.git```.
 After that run ```code .``` to open the document in vs code.
 Run ```open index.html``` to open the document in the browser for mac users and ```explorer.exe``` for users using wsl and ubuntu.
