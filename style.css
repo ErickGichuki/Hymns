@@ -6,7 +6,7 @@ body{
     background-color: rgb(227, 245, 245);
 }
 .container{
-    width: 80%;
+    width: 100%;
     margin: 20px auto;
     font-family: Poppins;
 }
@@ -29,7 +29,7 @@ h4{
 #searchInput{
     width: 80%;
     padding: 8px;
-    margin-right: px;
+    margin-right: 10px;
     margin-bottom: 10px;
     border-radius: 11px;
 }
