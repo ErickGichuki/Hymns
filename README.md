@@ -16,7 +16,7 @@
 
 - When the user clicks the title the lyrics are displayed.
 - The display should look like this
-  <img width="724" alt="image" src="https://github.com/ErickGichuki/Hymns/assets/151629292/1aa5cc90-e69c-489b-9fbe-4488f3c39db2">
+  
 
 
 ## Techonlogies
