@@ -1,4 +1,4 @@
-# Hymns Web App
+<img width="1376" alt="image" src="https://github.com/ErickGichuki/Hymns/assets/151629292/2b9f82ad-212b-4215-8f8c-14cb9e9c8bc7"># Hymns Web App
 ## Description
 - The hymns web app consists of hymns that we sing most of the time.
 - The app is built in such a way that it displays the list of hymns, number, key and transpose on the page allowing the user to browse and select hymns.
@@ -11,6 +11,9 @@
 - After that run ```code .``` to open the document in vs code.
 - Run ```open index.html``` to open the document in the browser for mac users and ```explorer.exe``` for users using wsl and ubuntu.
 - With this set up, follow along the code as you test it.
+- When you load in the browser the page should look this way 
+<img width="1376" alt="image" src="https://github.com/ErickGichuki/Hymns/assets/151629292/eea2075a-5b2d-4eaa-ba22-9f6de7e9bddd">
+
 ## Techonlogies
 I have used three languages for this project:
 - HTML
