@@ -1,4 +1,3 @@
-<img width="1376" alt="image" src="https://github.com/ErickGichuki/Hymns/assets/151629292/2b9f82ad-212b-4215-8f8c-14cb9e9c8bc7">
 # Hymns Web App
 ## Description
 - The hymns web app consists of hymns that we sing most of the time.
