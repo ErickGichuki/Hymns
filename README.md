@@ -26,7 +26,7 @@ I have used three languages for this project:
 - CSS
 - JavaScript
 ## Bugs
-No bugs have been detected so far. if you happen to encounter kindly contact me via email:
+No bugs have been detected so far. If you happen to encounter kindly contact me via email:
 - Email: erickgichukimucheru@gmail.com
 ## License
 Copyright &copy; 2024 Erick Gichuki
