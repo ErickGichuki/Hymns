@@ -1,6 +1,6 @@
 # Hymns Web App
 ## Description
-- The hymns web app consists of hymns that we sing most of the time.
+- The hymns web app consists of hymns that we sing most of the time but included a transpose which is very key to pianists and musicians.
 - The app is built in such a way that it displays the list of hymns, number, key and transpose on the page allowing the user to browse and select hymns.
 - The user should be able to search for hymns by title, number or keywords.
 - When the user clicks the selected hymn the lyrics display.
@@ -20,7 +20,7 @@
 
 
 
-## Techonlogies
+## Technologies
 I have used three languages for this project:
 - HTML
 - CSS
